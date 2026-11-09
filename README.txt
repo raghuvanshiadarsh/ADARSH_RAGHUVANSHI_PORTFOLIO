@@ -5,3 +5,7 @@ HOW TO USE
 4. Change colours at the top of style.css.
 5. To publish for free: upload the folder to GitHub, then turn on GitHub Pages (Settings > Pages),
    or drag the folder onto netlify.com/drop.
+
+
+THANK YOU FOR VISITING
+
