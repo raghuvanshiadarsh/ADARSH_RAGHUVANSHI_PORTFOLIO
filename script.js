@@ -8,7 +8,4 @@ const observer = new IntersectionObserver((entries) => {
 }, { rootMargin: "-40% 0px -55% 0px" });
 document.querySelectorAll("section[id]").forEach((s) => observer.observe(s));
 
-
-
-
 document.getElementById("year").textContent = new Date().getFullYear();
